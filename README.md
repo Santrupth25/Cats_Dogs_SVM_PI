@@ -78,5 +78,4 @@ Steps followed:
 4. Train SVM classifier  
 5. Evaluate using accuracy and confusion matrix  
 
-
-⭐ If you found this project useful, give it a star!
+---
